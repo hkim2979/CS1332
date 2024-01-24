@@ -9,9 +9,9 @@
 - HW06 - MinHeap
 - HW07 - HashMap
 - HW08 - AVL Rotations
-- HW09 - ArrayList
-- HW10 - ArrayList
-- HW11 - ArrayList
-- HW12 - ArrayList
-- HW13 - ArrayList
-- HW14 - ArrayList
+- HW08_Part2 - AVL Operations
+- HW10 - Iterative Sorts
+- HW11 - Divide & Conquer Sorts
+- HW12 - Pattern Matching
+- HW13 - Graph Traversals
+- HW14 - Minimum Spanning Trees
